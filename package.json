@@ -3,7 +3,7 @@
   "main": "./thig.js",
   "version": "0.1.0",
   "description": "Resolve a name from this then global (or scoped) namespace.",
-  "repository": "https://github.com/isysd/passclass",
+  "repository": "https://bitbucket.org/isysd/passclass",
   "author": "isysd <public@iramiller.com>",
   "license": "MIT",
   "scripts": {

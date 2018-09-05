@@ -49,7 +49,7 @@ obj.prop // my property
 
 ##### Mixin
 
-To use as an es6 class mixin, first use [object-to-class](https://github.com/isysd/object-to-class).
+To use as an es6 class mixin, first use [object-to-class](https://bitbucket.org/isysd/object-to-class).
 
 ```
 const o2c = require('object-to-class')
